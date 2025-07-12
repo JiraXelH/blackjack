@@ -1,0 +1,11 @@
+train: ./images
+val: ./images
+
+nc: 52
+
+names: [
+  '2_herz', '3_herz', '4_herz', '5_herz', '6_herz', '7_herz', '8_herz', '9_herz', '10_herz', 'J_herz', 'Q_herz', 'K_herz', 'A_herz',
+  '2_karo', '3_karo', '4_karo', '5_karo', '6_karo', '7_karo', '8_karo', '9_karo', '10_karo', 'J_karo', 'Q_karo', 'K_karo', 'A_karo',
+  '2_kreuz', '3_kreuz', '4_kreuz', '5_kreuz', '6_kreuz', '7_kreuz', '8_kreuz', '9_kreuz', '10_kreuz', 'J_kreuz', 'Q_kreuz', 'K_kreuz', 'A_kreuz',
+  '2_pik', '3_pik', '4_pik', '5_pik', '6_pik', '7_pik', '8_pik', '9_pik', '10_pik', 'J_pik', 'Q_pik', 'K_pik', 'A_pik'
+]
